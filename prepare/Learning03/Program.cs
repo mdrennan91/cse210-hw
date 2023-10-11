@@ -1,7 +1,7 @@
 using System;
 using System.Xml.Schema;
 
-// Encapsulation Learning Activity
+// Encapsulation
 class Program
 {
     static void Main(string[] args)

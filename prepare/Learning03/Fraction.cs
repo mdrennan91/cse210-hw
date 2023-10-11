@@ -1,6 +1,6 @@
 using System;
 
-// Encapsulation Learning Activity
+// Encapsulation
 public class Fraction
 {
     private int _top;
