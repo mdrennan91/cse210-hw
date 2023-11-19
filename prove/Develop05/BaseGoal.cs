@@ -24,7 +24,6 @@ public abstract class Goal
     }
     public virtual bool IsCompleted()
     {
-        System.Console.WriteLine("Is completed base class");
         return false; // For Eternal Goals, which are never marked as completed
     }
 }
