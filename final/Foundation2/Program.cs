@@ -17,7 +17,7 @@ class Program
 
         Order order1 = new Order(usaCustomer);
         order1.AddProduct(product1);
-        order1.AddProduct(product2);
+        order1.AddProduct(product2); 
         order1.AddProduct(product3);
     
         Order order2 = new Order(nonUsaCustomer);

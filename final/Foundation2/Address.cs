@@ -1,4 +1,4 @@
-class Address
+class Address 
 {
     private string _streetAddress;
     private string _city;
